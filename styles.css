@@ -1,0 +1,15 @@
+.txt
+{
+	font-weight: bold;
+}
+
+#msg
+{
+	display: block;
+}
+
+#chat
+{
+	height: 400px;
+	overflow: scroll;
+}
